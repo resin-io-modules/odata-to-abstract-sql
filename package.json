@@ -1,6 +1,6 @@
 {
   "name": "@balena/odata-to-abstract-sql",
-  "version": "5.4.1",
+  "version": "5.5.0",
   "description": "A consumer of the OData parser, written in OMeta",
   "main": "out/odata-to-abstract-sql.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "@balena/abstract-sql-compiler": "8.0.0-true-boolean-aaaa571679e5eed4d0df153b630b6d64b7ab2d49",
+    "@balena/abstract-sql-compiler": "8.0.0-true-boolean-5914ecfede7efc56e38162b4f9dfa5e19f0d0792",
     "@balena/odata-parser": "^2.2.1",
     "@types/lodash": "^4.14.165",
     "@types/memoizee": "^0.4.5",

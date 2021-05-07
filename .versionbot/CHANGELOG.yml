@@ -1,4 +1,23 @@
 - commits:
+    - subject: WIP
+      hash: 1f122cf6c4e926a394461a680464a9029ae7f8ca
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+      nested: []
+    - subject: WIP
+      hash: 15e514f21fb3b5bccf0afbc56587467fd49d545f
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Pagan Gazzard
+      nested: []
+  version: 5.5.0
+  date: 2021-05-07T12:38:14.682Z
+- commits:
     - subject: Update abstract-sql-compiler to 7.4.2
       hash: 4fc1c0cb35edb423a98e66f2c10347290ae25e0c
       body: |
